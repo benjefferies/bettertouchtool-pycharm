@@ -1,6 +1,12 @@
 # bettertouchtool-pycharm
 Better Touch Tool pycharm configuration
 
+Import the configuration into bettertouchtool to get pycharm touchbar support http://docs.bettertouchtool.net/docs/touch_bar.html
+
+1. Preferences
+1. Import
+1. Select and import better-touch-tool-pycharm file
+
 ### Touchbar buttons
 
 - *Debug* the currently selected configuration
